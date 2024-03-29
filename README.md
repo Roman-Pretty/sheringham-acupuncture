@@ -14,7 +14,7 @@ Sheringham Acupuncture is dedicated to providing high-quality acupuncture treatm
 
 ## Getting Started
 
-This site is live for [Sheringham Acupuncture](https://sheringhamacupuncutre.co.uk)
+This site is live for [Sheringham Acupuncture](http://www.sheringhamacupuncture.co.uk/)
 
 To run this project locally, follow these steps:
 
